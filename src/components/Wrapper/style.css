@@ -1,0 +1,10 @@
+.wrapper {
+    min-height: 100%;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: darkkhaki;
+    justify-content: center;
+    color: black;
+  }

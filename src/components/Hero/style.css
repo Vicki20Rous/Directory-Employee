@@ -1,0 +1,13 @@
+.header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: ("./blueangel.jpg");
+    padding: 30px;
+    padding-left: 30px;
+    padding: 30px;
+    text-align: center;
+    background-color:black;
+    outline:black solid 5px;
+    border-color: blue;
+    color: blue;
+    border-bottom: solid 6px;
+  }
